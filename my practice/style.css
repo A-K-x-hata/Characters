@@ -1,0 +1,48 @@
+h3{
+	color:yellow;
+}
+
+h4{
+	color:yellow;
+}
+body{
+background-image: url(https://images.unsplash.com/photo-1543589076-96421b4e2f1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bGlnaHQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60);
+background-size: cover;
+}
+.web{
+	color:yellow;
+}
+.hmm{
+	color:royalblue;
+}
+#list{
+	color:cornflowerblue;
+	border:3px solid purple;
+	background-color: rgba(0,0,255,0.2);
+	cursor:pointer;
+}
+marquee{
+	color:antiquewhite;
+	text-shadow: revert-layer;
+	font-size: 20px;
+}
+.ok{
+	color:rosybrown;
+}
+#omg{
+	color:olivedrab;
+}
+#f{
+	color:olivedrab;
+}
+.rr{
+	color:deeppink;
+}
+#l{
+	background-color:lavenderblush;
+}
+a{
+	color: limegreen;
+	font-size: 25px;
+	margin-right: 20px;
+}
